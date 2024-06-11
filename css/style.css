@@ -1,0 +1,109 @@
+.warna1 {
+    background-color: #2c0a63 ;
+}
+
+.warna2 {
+    background-color:  #030637 ;
+}
+
+.warna3 {
+    background-color: #061431;
+}
+
+.warna4 {
+    background-color: #FDBF60;
+}
+
+.warna5 {
+    background-color: #10439F;
+}
+
+.backround1{
+    background: url(../img/backround.jpg);
+    background-size: cover;
+    background-position: center;
+} 
+
+.banner{
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../img/ps1.jpg');
+    background-size: cover;
+}
+
+.highlighted-kategori {
+    height: 250px;
+}
+
+.backround {
+    background-color: #1F2544;
+}
+
+.kategori-ps-3{
+    background:  url('../img/pss3.png');
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.kategori-ps-4{
+    background: url('../img/ps4.jpg');
+    background-size: cover;
+    background-position: center;
+    
+    
+}
+
+.kategori-ps-5{
+    background: url('../img/ps5.jpg');
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.no-decoration {
+    text-decoration: none;
+    color: transparent;
+}
+
+.no-decoration:hover{
+    color: rgb(219, 219, 219);
+}
+
+.text-harga {
+    font-size: 20px;
+    color: #ff790b;
+}
+
+.image-box{
+    height: 250px;
+}
+
+.image-box{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.content-subscribe {
+    background-color:#101635;
+}
+
+.content-subscribe a{
+    color : #fff;
+}
+
+.banner-produk {
+    height: 45vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../img/backround.jpg');
+    background-size: cover;
+    background-position: 50% 35%;
+}
+
+.produk-terkait-image {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
